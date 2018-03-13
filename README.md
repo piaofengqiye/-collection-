@@ -3,7 +3,7 @@
 
 ![数字滚动](https://github.com/piaofengqiye/-collection-/blob/master/数字滚动.gif)
 
-# 使用:
+## 使用:
 将```XLMultiDigitalAnimationView```文件拖拽到项目中即可
 
 ```
